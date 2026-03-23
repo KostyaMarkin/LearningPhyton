@@ -1,0 +1,1 @@
+stroka = input(); print('yes' if stroka.count('1')==stroka.count('0') else 'no')
